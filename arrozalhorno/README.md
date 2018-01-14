@@ -23,11 +23,11 @@
 ## Preparación
 
 - Lo primero, tenemos que preparar todos los ingredientes para hacer el sofrito
-    - Cortamos los trozos de carne para que queden más pequeños que como normalmente vienen en el arreglo. La idea es que queden como "bocados" de carne.
-    - La morcilla va al sofrito entera
-    - La patata la cortamos en rodajas tirando a finas (sin que queden como papel de fumar). Es el mismo corte que para hacer patatas a lo pobre.
-    - Cortamos el tomate de manera similar a las patatas. Tiene que quedar en rodajas gorditas.
-    - Al ajo le cortamos la punta y le damos un corte por la mitad. Se deja sin pelar (o cuanto apenas).
+  - Cortamos los trozos de carne para que queden más pequeños que como normalmente vienen en el arreglo. La idea es que queden como "bocados" de carne.
+  - La morcilla va al sofrito entera
+  - La patata la cortamos en rodajas tirando a finas (sin que queden como papel de fumar). Es el mismo corte que para hacer patatas a lo pobre.
+  - Cortamos el tomate de manera similar a las patatas. Tiene que quedar en rodajas gorditas.
+  - Al ajo le cortamos la punta y le damos un corte por la mitad. Se deja sin pelar (o cuanto apenas).
 
 ![Preparando los ingredientes para el sofrito](img/small_IMG_20180107_130609.jpg)
 
@@ -65,9 +65,9 @@
 ![El arroz y el agua en la cazuela](img/small_IMG_20180107_132900.jpg)
 
 - Añadimos el resto de ingredientes a la cazuela.
-    - Primero, la carne y los garbanzos (escurridos), que repartimos para que se distribuyan uniformemente.
-    - Añadimos el colorante alimentario (un par de cucharaditas).
-    - Después las morcillas, las rodajas de patata y de tomate. Esto ya lo podemos considerar "decoración".
+  - Primero, la carne y los garbanzos (escurridos), que repartimos para que se distribuyan uniformemente.
+  - Añadimos el colorante alimentario (un par de cucharaditas).
+  - Después las morcillas, las rodajas de patata y de tomate. Esto ya lo podemos considerar "decoración".
 
 ![El resto de los ingredientes en la cazuela](img/small_IMG_20180107_133402.jpg)
 
@@ -79,9 +79,6 @@
 - Sacamos la cazuela del horno y dejamos reposar unos minutos.
 - ¡A comer!
 
-
 ## Agradecimientos
 
 Receta original de Amparo Montoya Álvarez :heart:
-
-
