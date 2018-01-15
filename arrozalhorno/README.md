@@ -10,20 +10,21 @@
 - Un ajo
 - Un puñado de sal
 - Aceite de oliva 0.4
-- Arreglo para cocido (la bandeja grande de mercadona)
+- Arreglo para cocido (la bandeja grande de Mercadona) (TODO: especificar bien lo que lleva)
 
 ![Arreglo para arroz al horno](img/arregloAAHMercadona.png)
 
 ## Hardware
 
 - Un horno
-- Una cazuela de barro de unos 40 cm de diámetro (TODO: ¡Comprobar!)
-- Una sartén grande
+- Una cazuela de barro de unos 40 cm de diámetro
+- Una sartén grande para hacer el sofrito (aunque si la cocina lo permite, el sofrito es mejor hacerlo en la propia cazuela)
 
-## Preparación
+## Elaboración
 
 - Lo primero, tenemos que preparar todos los ingredientes para hacer el sofrito
   - Cortamos los trozos de carne para que queden más pequeños que como normalmente vienen en el arreglo. La idea es que queden como "bocados" de carne.
+  - Añadimos un poco de sal a la carne. A la panceta le echamos menos sal (porque ya es un poco más salada de por sí).
   - La morcilla va al sofrito entera
   - La patata la cortamos en rodajas tirando a finas (sin que queden como papel de fumar). Es el mismo corte que para hacer patatas a lo pobre.
   - Cortamos el tomate de manera similar a las patatas. Tiene que quedar en rodajas gorditas.
@@ -46,7 +47,7 @@
 
 ![Retiramos las patatas](img/small_IMG_20180107_131728.jpg)
 
-- Un poco antes de que se termine de hacer la carne podemos echar el tomate en la sarten para que se haga un poquito.
+- Un poco antes de que se termine de hacer la carne podemos echar el tomate en la sartén para que se haga un poquito. También podemos dejarlo crudo y que solamente se haga en el horno.
 
 ![Echamos el tomate](img/small_IMG_20180107_131832.jpg)
 
@@ -64,12 +65,12 @@
 
 ![El arroz y el agua en la cazuela](img/small_IMG_20180107_132900.jpg)
 
+- Añadimos el colorante alimentario (un par de cucharaditas) y removemos.
 - Añadimos el resto de ingredientes a la cazuela.
   - Primero, la carne y los garbanzos (escurridos), que repartimos para que se distribuyan uniformemente.
-  - Añadimos el colorante alimentario (un par de cucharaditas).
   - Después las morcillas, las rodajas de patata y de tomate. Esto ya lo podemos considerar "decoración".
 
-![El resto de los ingredientes en la cazuela](img/small_IMG_20180107_133402.jpg)
+![El resto de los ingredientes en la cazuela](img/small_IMG_20180114_131000.jpg)
 
 - Metemos la cazuela en la parte superior del horno.
 - Mantenemos la cazuela en el horno durante 40 minutos.
@@ -78,6 +79,8 @@
 
 - Sacamos la cazuela del horno y dejamos reposar unos minutos.
 - ¡A comer!
+
+![A comer](img/small_IMG_20180114_143911.jpg)
 
 ## Agradecimientos
 
