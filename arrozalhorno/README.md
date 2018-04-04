@@ -43,7 +43,7 @@
 
 - Después, retiramos las patatas, por el mismo motivo.
 - Seguimos removiendo para que la carne se termine de hacer.
-- Quizás este sea un buen momento para ir precalentando el horno a 250º.
+- Quizás este sea un buen momento para ir precalentando el horno a 250º en la posición calor inferior intensivo.
 
 ![Retiramos las patatas](img/small_IMG_20180107_131728.jpg)
 
@@ -62,6 +62,7 @@
 
 - Echamos el arroz en la cazuela y lo repartimos de manera (más o menos uniforme).
 - Añadimos 2 tazas de agua por cada taza de arroz que hayamos puesto.
+- Añadimos un puñado generoso de sal al agua.
 
 ![El arroz y el agua en la cazuela](img/small_IMG_20180107_132900.jpg)
 
